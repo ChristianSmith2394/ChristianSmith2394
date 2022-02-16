@@ -2,4 +2,9 @@ Hi, I'm Christian! 👋
 
 I'm a student at BloomTech (FKA Lambda).
 
-I love everything tech and I have a passion for creating so here I am making websites. With BloomTech coming to an end soon, I cannot wait to finally get my foot in the field.
+🔭 I’m currently working on creating clones of popular websites.
+🌱 I’m currently learning more backend along with Python
+💬 Ask me anything about Frontend
+📫 How to reach me: christiansmith2394@gmail.com
+⚡ Fun fact: I love tomatoe sauce but hate tomatoes
+
