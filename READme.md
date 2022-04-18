@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **christiansmith2394@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Dj9LbKUgwAJE80SHf4TDlSrjtHenT5saMFbClrO9anE/edit?usp=sharing](https://docs.google.com/document/d/1Dj9LbKUgwAJE80SHf4TDlSrjtHenT5saMFbClrO9anE/edit?usp=sharing)
-
 - ⚡ Fun fact **I love tomato sauce but hate tomatoes**
 
 <h3 align="left">Connect with me:</h3>
