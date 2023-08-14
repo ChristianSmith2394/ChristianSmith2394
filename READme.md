@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christiansmith2394&label=Profile%20views&color=0e75b6&style=flat" alt="christiansmith2394" /> </p>
 
-- 🔭 I’m currently working on [an Amazon clone](https://github.com/ChristianSmith2394/ecom-store)
+- 🔭 I’m currently working on [a new Portfolio](https://github.com/ChristianSmith2394/port2)
 
-- 🌱 I’m currently learning **more backend and Python**
+- 🌱 I’m currently learning **NextJS**
 
 - 💬 Ask me about **React**
 
